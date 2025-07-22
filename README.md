@@ -1,18 +1,22 @@
-# 🚀 Portafolio Técnico – Ian Scateni
+# 🚀 Technical Portfolio
 
-Este repositorio reúne mis **proyectos profesionales y personales** desarrollados durante el proceso de formación como **Arquitecto Full Stack**.  
-Todos los proyectos aquí documentados aplican buenas prácticas de desarrollo, principios de arquitectura limpia y despliegue funcional.
+This repository gathers my **professional and personal projects** developed throughout my journey to become a **Full Stack Architect**.  
+Each project here follows clean code practices, architectural principles, and includes working deployments when applicable.
 
-🎯 Cada proyecto ha sido seleccionado por su valor técnico, alineación con el roadmap `Architect Track`, y como muestra de mis capacidades para roles técnicos avanzados.
+🎯 Every project has been carefully selected based on its technical value, alignment with the `Architect Track` roadmap, and ability to demonstrate advanced engineering skills.
 
-## 🗂️ Proyectos incluidos
+## 🗂️ Included Projects
 
-| Proyecto              | Tipo        | Tecnologías clave                             | Descripción breve |
-|-----------------------|-------------|-----------------------------------------------|-------------------|
-| `travel-agency`       | Full Stack  | React, Express, MongoDB, JWT, Tailwind        | Gestión de paquetes turísticos, reservas y usuarios |
-| `portfolio`           | Frontend    | React 18, Vite, TailwindCSS, GSAP             | Sitio personal con secciones animadas y contacto    |
+| Project         | Type       | Key Technologies                              | Description |
+|-----------------|------------|-----------------------------------------------|-------------|
+| `travel-agency` | Full Stack | Node.js, Express, Sequelize, MySQL, Pug       | Tourism packages, booking, and user management API |
+| `portfolio`     | Frontend   | React 18, Vite, TailwindCSS, GSAP, Three.js   | Personal portfolio website with animations and contact form |
 
 ---
 
-📌 Cada proyecto incluye su propio `README.md` con instrucciones de uso, tecnologías utilizadas y arquitectura general.  
-🔧 Próximamente se integrarán CI/CD, tests automatizados y despliegues productivos en AWS, Vercel y Railway.
+📌 Each project includes its own `README.md` file with setup instructions, stack overview, and architecture description.  
+🔧 CI/CD pipelines, automated tests, and production deployments to AWS, Vercel, or Railway are coming soon.
+
+---
+
+📄 Created by **Ian Scateni** · Full Stack Developer · Software Architect
