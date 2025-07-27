@@ -19,4 +19,4 @@ Each project here follows clean code practices, architectural principles, and in
 
 ---
 
-📄 Created by **Ian Scateni** · Full Stack Developer · Software Architect
+📄 Created by **Ian Scateni** · Fullstack Developer · Software Engineer · Software Architect
