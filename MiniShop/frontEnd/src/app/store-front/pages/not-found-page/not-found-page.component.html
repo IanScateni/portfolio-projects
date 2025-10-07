@@ -1,0 +1,49 @@
+<!-- 404 Not Found -->
+<section class="min-h-[75vh] grid place-items-center px-6">
+  <div class="max-w-2xl text-center space-y-6">
+    <div class="inline-flex items-center gap-2 rounded-full bg-orange-100/70 px-4 py-1 text-sm font-medium text-orange-700">
+      <span class="i-lucide-alert-triangle"></span>
+      Error 404
+    </div>
+
+    <h1 class="font-montserrat text-4xl sm:text-5xl font-extrabold">
+      Ups… no encontramos esta página
+    </h1>
+
+    <p class="text-base-content/70">
+      Puede que el enlace esté roto o que la página haya sido movida.  
+      Vuelve al inicio o explora nuestras categorías.
+    </p>
+
+    <!-- Ilustración simple -->
+    <div class="mx-auto max-w-md">
+      <svg viewBox="0 0 200 120" class="w-full">
+        <defs>
+          <linearGradient id="g" x1="0" x2="1">
+            <stop offset="0" stop-color="#ff9f1c"/>
+            <stop offset="1" stop-color="#ffa928"/>
+          </linearGradient>
+        </defs>
+        <rect x="0" y="70" width="200" height="8" rx="4" fill="url(#g)"/>
+        <circle cx="55" cy="60" r="22" fill="#ffe3b0"/>
+        <rect x="80" y="40" width="65" height="40" rx="8" fill="#111827" opacity=".9"/>
+        <rect x="88" y="48" width="34" height="24" rx="4" fill="#22283a"/>
+        <circle cx="128" cy="68" r="6" fill="#ff9f1c"/>
+        <text x="15" y="110" fill="#ff9f1c" font-size="28" font-family="Montserrat, sans-serif" font-weight="800">404</text>
+      </svg>
+    </div>
+
+    <div class="flex items-center justify-center gap-3">
+      <a routerLink="/" class="btn btn-primary text-white">
+        Volver al inicio
+      </a>
+      <button class="btn btn-ghost" (click)="goBack()">
+        Regresar
+      </button>
+    </div>
+
+    <p class="text-xs text-base-content/60">
+      ¿Crees que esto es un error? <a class="link link-primary" routerLink="/contact">Contáctanos</a>.
+    </p>
+  </div>
+</section>

@@ -11,6 +11,8 @@ Each project here follows clean code practices, architectural principles, and in
 |-----------------|------------|-----------------------------------------------|-------------|
 | `travel-agency` | Full Stack | Node.js, Express, Sequelize, MySQL, Pug       | Tourism packages, booking, and user management API |
 | `portfolio`     | Frontend   | React 18, Vite, TailwindCSS, GSAP, Three.js   | Personal portfolio website with animations and contact form |
+| `mini-shop`       | Full Stack | Angular 19, NestJS, MySQL, Docker, JWT Auth             | Fullstack e-commerce app with public and admin panels |
+| `clean-node-api`  | Backend    | Node.js, TypeScript, Clean Architecture, MongoDB, JWT   | Modular API with JWT auth and strict layer separation |
 
 ---
 
