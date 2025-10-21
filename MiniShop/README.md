@@ -1,6 +1,6 @@
-# 🛍️ MiniShop – Prueba Fullstack
+# 🛍️ MiniShop
 
-Este proyecto corresponde al desarrollo de la **prueba técnica Fullstack**, implementando un sistema de comercio electrónico con **Angular (frontend)** y **NestJS (backend)**, conectado a una base de datos **MySQL**.
+Este proyecto corresponde a la implementación un sistema de comercio electrónico con **Angular (frontend)** y **NestJS (backend)**, conectado a una base de datos **MySQL**.
 
 Incluye:
 
@@ -108,7 +108,6 @@ Puedes importar este archivo directamente en MySQL si no usas Docker.
 
 ## 📌 Notas finales
 
-Este proyecto fue desarrollado como **prueba técnica fullstack**.  
 Está organizado para que pueda correrse tanto con **Docker** como de manera **local**.
 
 ---
